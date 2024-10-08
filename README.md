@@ -1,6 +1,6 @@
 Navigating the site is designed to be intuitive and user-friendly. Upon arriving at the homepage, visitors are welcomed with a friendly greeting and an overview of the site's purpose. 
-The main navigation menu at the top provides easy access to different sections such as "About," "Services," "Projects," and "Contact." 
-As users scroll down, they can find detailed information about the site's offerings, including descriptions of skills, experiences, and notable projects.
+The main navigation menu at the top provides easy access to different sections such as Home, about, projects, resume, and Contact. 
+Users can find detailed information about the site's offerings, including descriptions of skills, experiences, and notable projects as they scroll down.
 
 To enhance user interaction, a chatbot has been seamlessly integrated into the site. 
 This chatbot, implemented using Dialogflow's Web Demo integration, is embedded directly into the webpage. 
